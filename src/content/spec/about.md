@@ -1,6 +1,11 @@
 ---
 title: 关于
-pubDate: 2024-12-06
+pubDate: 2026-01-28
 ---
 
-此主题系 Hexo 主题 <a href="https://github.com/sumimakito/hexo-theme-typography">活版印字</a> 在 Astro 平台上的移植版本
+sukiSophie,二次元爱好者,专业计算机科学与技术,是个菜菜
+
+- 喜欢玩原神,喜欢它的世界观,像是宏大诗篇散落在世界深处;
+- 喜欢玩明日方舟,喜欢它的恒定,无论我厨谁都能带着征战泰拉;
+- 喜欢玩重返未来:1999,喜欢它的美术,色彩鲜明但是很安宁;
+

@@ -8,7 +8,7 @@ export const userConfig: Partial<UserConfig> = {
     description: 'sharing feelings and thoughts',
     website: 'https://suki37.dpdns.org',
     socialLinks: [
-      { name: 'github', href: 'https://github.com/sukiSophie' },
+      { name: 'github', href: 'https://github.com/sukiSophie-127' },
       { name: 'rss', href: '/atom.xml' },
     ],
     navLinks: [
